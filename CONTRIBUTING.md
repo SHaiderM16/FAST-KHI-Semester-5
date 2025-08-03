@@ -1,7 +1,7 @@
 # Let's Contribute!
 
 ## Step 1: Fork this repository
-- Go to [FAST-KHI-Semester-4](https://github.com/MuxammilSidd/FAST-KHI-Semester-4) and click **Fork**.  
+- Go to [FAST-KHI-Semester-5](https://github.com/MuxammilSidd/FAST-KHI-Semester-5) and click **Fork**.  
   *(Note: Ensure that you are logged in with your GitHub account.)*
 
 <img src="https://github.com/MuxammilSidd/FAST-KHI-Semester-1/raw/refs/heads/assets/media-assets/contributing/forking01.png"></img>
