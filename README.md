@@ -171,6 +171,7 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Lab:
 
 🔗 Google Drives:
+- [DB Book Slides](https://drive.google.com/drive/folders/1fS2ICQhrw3WvTmI8InrzapbHgNtMEwgX?usp=drive_link) - Chapter-wise slides of course book.
 
 🔗 Full courses:
 
