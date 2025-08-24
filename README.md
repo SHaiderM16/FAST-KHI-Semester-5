@@ -165,6 +165,7 @@ pata chale toh mujhe bhi bata dena pls
 ## 🔗 Course wise guide
 ### 📌 Database Systems:
 🔗 Useful Youtube Playlists:
+- [DBMS by Gate Smashers](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
 🔗 Resources:
 
@@ -178,6 +179,8 @@ pata chale toh mujhe bhi bata dena pls
 ---
 ### 📌 Design & Analysis of Algorithms:
 🔗 Useful Youtube Playlists:
+- [Design & Analysis of Algorithms by Gate Smashers](https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)
+- [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 🔗 Resources:
 
@@ -188,8 +191,10 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Full courses:
 
 ---
-### 📌 Parallel & Distributed Computing:
+### 📌 Computer Networks:
 🔗 Useful Youtube Playlists:
+- [Computer Networks by Gate Smashers](https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+- [Computer Networks by Neso Academy](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
 🔗 Resources:
 
@@ -223,15 +228,21 @@ pata chale toh mujhe bhi bata dena pls
 Feeling this repository isn't enough? 😩 Here are all links to repositories and drives I found: ⬇️
 
 ### 📌 Github Repositories:
-- [BS-CS-Semester-4](https://github.com/umarwaseeem/BS-CS-Semester-4) - by Umar Waseem
-- [FAST Semester 4](https://github.com/aliwajahat12/FastSemester4) - by Ali Wajahat
 - [Computer Science Notes](https://github.com/ishmahafeez/Computer-Science-Notes) - by Ishma Hafeez
+- [FAST Resources](https://github.com/hassanzhd/FAST-Resources/tree/master) - by Hassan Zahid
+- [Fast-Material-CS-SE (5th Sem)](https://github.com/Syed007Hassan/Fast-Material-CS-SE/tree/main/5TH%20SEMESTER) - by Syed Hassan
+- [FAST-Resources](https://github.com/jiyadkhan10/FAST-Resources/tree/main) - by Jiyad Khan
+- [5th-Semester-Material-FAST-NU](https://github.com/UmairKhan13/5th-Semester-Material-FAST-NU) - by Umair Khan
+- [FAST Resources (5th Sem)](https://github.com/codewith-usama/FAST-Resources/tree/main/5th%20Semester) - by codewith-Usama
+- [PastPaper-FAST-NUCES](https://github.com/codewith-usama/PastPaper-FAST-NUCES) - by codewith-Usama
+- [FAST-Resources (Semester 5)](https://github.com/ammansoomro/FAST-Resources/tree/main/Semester%205) - by Amman Soomro
+- [Fifth-Semester](https://github.com/BilalAhmed-358/5th-Semester) - by Bilal Ahmed
+- [FAST-NUCES Resources (Semester 5 CS)](https://github.com/muhammad-tahir0312/Fast-NUCES_Resources/tree/master/Semester%205%20(CS)) - by Muhammad Tahir
 
+- [Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine) - by Saleha Muzammil (FAST LHR Campus)
 ### 📌 Google Drives:
 
-- [FAST-Student-Forum-Share (Semester#04)](https://drive.google.com/drive/u/1/folders/1SKQBNrSJj4BJWWGW2BY--sPO2CP4YM_f) - by Mr. Tanveer
-- [Semester 4 (CS)](https://drive.google.com/drive/folders/124u4xGcz5eGmdqIHvtAEVeOugyhuY4qF?usp=drive_link) - by Muhammad Tahir (access with NU id)
-- [4th Semester](https://drive.google.com/drive/folders/1UoQ61blgyWfDFJ1oBu6XEepNSFQ0TqDi?usp=drive_link) - by Muhammad Rayyan Ali
+- [FAST-Student-Forum-Share (Semester#05)](https://drive.google.com/drive/folders/1Nd-xXgDptMCgM-chK2BjW7Lw7E5x5aBu?usp=sharing) - by Mr. Tanveer
 
 
 
