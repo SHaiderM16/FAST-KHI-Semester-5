@@ -56,10 +56,10 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   <tr>
     <td>3</td>
     <td></td>
-    <td>PDC</td>
-    <td><a href="#-parallel--distributed-computing">Parallel & Distributed Computing</a></td>
+    <td>CN</td>
+    <td><a href="#-computer-networks">Computer Networks</a></td>
     <td>Core</td>
-    <td>3</td>
+    <td>3+1</td>
   </tr>
   <tr>
     <td>4</td>
@@ -69,35 +69,47 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td>Core</td>
     <td>3</td>
   </tr>
-  <!-- <tr>
-    <td rowspan="2" style="text-align:center;">5</td>
-    <td>SS2019</td>
-    <td>PSYCH</td>
-    <td>Psychology</td>
+  <tr>
+    <td rowspan="5" style="text-align:center;">5</td>
+    <td></td>
+    <td>FSPM</td>
+    <td>Fundamentals of Software Project Management</td>
     <td>Elective</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>SS2018</td>
-    <td>SOCIO</td>
-    <td><a href="#-sociology">Sociology</a></td>
+    <td></td>
+    <td>RS</td>
+    <td>Recommended Systems</td>
     <td>Elective</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>6*</td>
-    <td>SS2043</td>
-    <td>CCE</td>
-    <td>Civics & Community Engagement</td>
-    <td>Core</td>
-    <td>2</td>
-  </tr> -->
+    <td></td>
+    <td>GT</td>
+    <td>Graph Theory</td>
+    <td>Elective</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>WP</td>
+    <td>Web Programming</td>
+    <td>Elective</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>OR</td>
+    <td>Operation Research</td>
+    <td>Elective</td>
+    <td>3</td>
+  </tr>
   <tr>
     <td colspan="5" style="text-align:right;"><b>Total Credit Hours:</b></td>
-    <td><b>13</b></td>
+    <td><b>17</b></td>
   </tr>
 </table>
-<i>Note</i>: 
 
 ## 🔗 Useful Websites you should know!
 
@@ -167,7 +179,11 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Useful Youtube Playlists:
 - [DBMS by Gate Smashers](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
+🔗 Projects:
+- [AirOpsManager](https://github.com/SyedMuhammadFaheem/AirOpsManager-AirlinesManagementSystem) - Flight Management System using MERN Stack by Syed Muhammad Faheem.
+
 🔗 Resources:
+- [Complete DBMS One-Shot](https://youtu.be/YRnjGeQbsHQ?feature=shared) - by KnowledgeGate
 
 🔗 Lab:
 
@@ -197,6 +213,7 @@ pata chale toh mujhe bhi bata dena pls
 - [Computer Networks by Neso Academy](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
 🔗 Resources:
+- [Complete Computer Networks One-Shot](https://youtu.be/APVCgkqWcQ4?feature=shared) - by KnowledgeGate
 
 🔗 Lab:
 
@@ -238,7 +255,6 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [FAST-Resources (Semester 5)](https://github.com/ammansoomro/FAST-Resources/tree/main/Semester%205) - by Amman Soomro
 - [Fifth-Semester](https://github.com/BilalAhmed-358/5th-Semester) - by Bilal Ahmed
 - [FAST-NUCES Resources (Semester 5 CS)](https://github.com/muhammad-tahir0312/Fast-NUCES_Resources/tree/master/Semester%205%20(CS)) - by Muhammad Tahir
-
 - [Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine) - by Saleha Muzammil (FAST LHR Campus)
 ### 📌 Google Drives:
 
