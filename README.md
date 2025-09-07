@@ -260,5 +260,9 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 
 - [FAST-Student-Forum-Share (Semester#05)](https://drive.google.com/drive/folders/1Nd-xXgDptMCgM-chK2BjW7Lw7E5x5aBu?usp=sharing) - by Mr. Tanveer
 
+- [Semester # 6 Drive](https://drive.google.com/drive/folders/1mskVnnCGdvGl6Eu8N8z3hh_M5s7fl3db?usp=sharing) - by k190305
+
+### 📌 MEGA Drives:
+- [36 Courses MEGA Drive](https://mega.nz/folder/1gNjgIrR#qtAvPP6gR0fdzjQUQG8Tkw)
 
 
