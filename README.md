@@ -24,7 +24,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Additional Resources](#-additional-resources)
 
-### 🔗 How to crack your fourth semester at FAST NUCES!
+### 🔗 How to crack your fifth semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
@@ -39,7 +39,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
+    <td>CS2005</td>
     <td>DS</td>
     <td><a href="#-database-systems">Database Systems</a></td>
     <td>Core</td>
@@ -47,7 +47,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
+    <td>CS2009</td>
     <td>DAA</td>
     <td><a href="#-design--analysis-of-algorithms">Design & Analysis of Algorithms</a></td>
     <td>Core</td>
@@ -55,7 +55,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
+    <td>CS3001</td>
     <td>CN</td>
     <td><a href="#-computer-networks">Computer Networks</a></td>
     <td>Core</td>
@@ -63,7 +63,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
+    <td>CS3004</td>
     <td>SDA</td>
     <td><a href="#-software-design--analysis">Software Design & Analysis</a></td>
     <td>Core</td>
@@ -71,7 +71,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
   <tr>
     <td rowspan="5" style="text-align:center;">5</td>
-    <td></td>
+    <td>CS4044</td>
     <td>FSPM</td>
     <td>Fundamentals of Software Project Management</td>
     <td>Elective</td>
@@ -181,8 +181,11 @@ pata chale toh mujhe bhi bata dena pls
 
 🔗 Projects:
 - [AirOpsManager](https://github.com/SyedMuhammadFaheem/AirOpsManager-AirlinesManagementSystem) - Flight Management System using MERN Stack by Syed Muhammad Faheem.
+- [FAST-Flex-Management-System](https://github.com/muhammadsaadx/Fast-Flex-Management-System) - by Muhammad Saad.
+- [Student-Flex-Management-System](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/tree/main) - by Muhammad Ali Ahson
 
 🔗 Resources:
+- [Fundamentals of DBS Slides](https://www.cs.purdue.edu/homes/bb/cs448_Fall2017/lpdf/) - 7th Edition
 - [Complete DBMS One-Shot](https://youtu.be/YRnjGeQbsHQ?feature=shared) - by KnowledgeGate
 
 🔗 Lab:
@@ -232,6 +235,14 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Google Drives:
 
 🔗 Full courses:
+
+---
+
+### 📌 Operation Research:
+🔗 Useful Youtube Playlists:
+
+🔗 Projects:
+- [ORA](https://github.com/hassan11196/ORA) - Minimum Spanning Tree OR Project.
 
 ---
 
